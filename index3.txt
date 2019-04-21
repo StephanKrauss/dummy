@@ -1,0 +1,1 @@
+docker run -d -e 'GIT_EMAIL=info@stephankrauss.de' -e 'GIT_NAME=Stephan Krauss' -e 'GIT_USERNAME=git_username' -e 'GIT_REPO=github.com/project' -e 'GIT_PERSONAL_TOKEN=<long_token_string_here>' richarvey/nginx-php-fpm:latest
