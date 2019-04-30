@@ -8,3 +8,6 @@
 + composer update  
 +  docker run --rm -p 9000:9000 -v <C:/xampp1/meinVerzeichnis>:/application <imageName>:<tagName>
   -------------------------------------
+#### b. starten NGinx Container
+  
+  + https://blog.docker.com/2015/04/tips-for-deploying-nginx-official-image-with-docker/
