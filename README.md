@@ -1,5 +1,5 @@
 # Allgemeine Konfiguration
-### Vorlage www.github.com/*Yavin/docker-alpine-php-fpm*
+### Vorlage www.github.com/Yavin/docker-alpine-php-fpm
 
 + git clone ...  
 + cd ...  
